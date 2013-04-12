@@ -1,4 +1,4 @@
 SearchEngine
 ============
 
-An optimized search engine( sample code )
+An optimized search engine
